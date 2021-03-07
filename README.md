@@ -11,15 +11,7 @@
 
 <h2 id="Parking-Attributes">Bike Parking Attributes</h2>
 
-The following typical tags are applied to define bike parking attributes within OpenStreetMap.  For bike parking data collected as part of this project it is desired to record bicycle_parking and capacity attributes for all entries.  Where access is more restricted on non-city properties it is desired to indicate the access type as customers or private where required.
-
-A map of existing OpenStreetMap bike parking in Mississauga can be found here: <a href="https://krishammel.github.io/combined_validation.html?version=e5dcd35">bike parking map</a>.  The color coding legend is as follows:
-<ul>
-  <li>Green - Parking type and capacity completed</li>
-  <li>Pink - Parking type available but capacity unavailable</li>
-  <li>Purple - Parking type unavailable but capacity available</li>
-  <li>Red - Neither parking type not capacity available</li>
-</ul>
+The following typical tags are applied to define bike parking attributes within OpenStreetMap.  For bike parking data collected it is desired to record bicycle_parking and capacity attributes for all entries.  Where access is more restricted on non-city owned properties it is desired to indicate the access type as customers or private where required.
 
 | Tag   | Description      |
 | ----- | ---------------- |
