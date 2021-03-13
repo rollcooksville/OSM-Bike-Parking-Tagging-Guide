@@ -6,7 +6,7 @@ Goto <a href="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=13&lat=43
 Zoom into the map to at least zoom level 17 to be able to see the existing bike parking:
 <img src='img/editMapComplete/17_zoom_importance.png'>
 
-Click map where you want to add bike parking:
+Click map where you want to add bike parking:  
 <img src='img/editMapComplete/click_screen_where_you_want_to_add.png'>
 
 Click this new point to select what type of point you want to add.  Choose Bike parking from the options:
