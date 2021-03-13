@@ -13,7 +13,7 @@
 <h2 id="OpenStreetMap">About OpenStreetMap</h2>
 OpenStreetMap is a free, editable map of the whole world that is being built by volunteers largely from scratch and released with an open-content license.
 
-
+<br/>
 The <a href="//www.openstreetmap.org/copyright">OpenStreetMap License</a> allows free (or almost free) access to map images and all of the underlying map data. The project aims to promote new and interesting uses of this data. See "<a href="/wiki/Why_OpenStreetMap%3F">Why OpenStreetMap?</a>" for more details about why an open-content map is desirable.
 
 <h2 id="ProjectMotivation">Why Add Bike Mississauga Parking to OpenStreetMap</h2>
@@ -27,14 +27,14 @@ The City of Mississauga will be launching a publicly accessible and interactive 
   <li>Parks</li>
   <li>City Owned Buildings (e.g. Community Centres, Arenas, Libraries, Museums, etc.)</li>
   <li>Public Spaces (e.g. Celebration Square)</li>
-<ul>
+</ul>
 
 
 In early 2021 the city will also be launching new 311 Service Request codes in 311 and PingStreet for the public to be able to request new bicycle parking and to report damaged bicycle parking.
-
+<br/>
 
 Beginning this spring the city will begin installing an additional ~50 bike parking racks within the road right of way.  Knowing there are gaps in the map for bike parking (city owned or private) can provide better information to citizens when requesting new bike parking to meet overall bike parking needs.   
-
+<br/>
 
 For more information on city plans for bike parking please see the <a href="https://pub-mississauga.escribemeetings.com/filestream.ashx?DocumentId=8278">Transportation & Works Bicycle Parking Program Memorandum</a> presented to the Mississauga Cycling Advisory Committee on Jan 7, 2021.
 
