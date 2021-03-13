@@ -11,12 +11,14 @@
 </ul>
 
 <h2 id="OpenStreetMap">About OpenStreetMap</h2>
+
 OpenStreetMap is a free, editable map of the whole world that is being built by volunteers largely from scratch and released with an open-content license.
   
 The <a href="//www.openstreetmap.org/copyright">OpenStreetMap License</a> allows free (or almost free) access to map images and all of the underlying map data. The project aims to promote new and interesting uses of this data. See "<a href="/wiki/Why_OpenStreetMap%3F">Why OpenStreetMap?</a>" for more details about why an open-content map is desirable.
 
 <h2 id="ProjectMotivation">Why Add Bike Mississauga Parking to OpenStreetMap</h2>
-When folks are doing trip planning we'd like them be able to know ahead of time where they can find bike parking at or near their destination.  Our <a href="https://rollcooksville.github.io/maps/#map=12/43.5800/-79.5405/cyclosm">Mississauga Bike Parking Map</a> shows all bike parking whether city owned or provided by private businesses for their customers.  
+
+When folks are doing trip planning we'd like them be able to know ahead of time where they can find bike parking at or near their destination.  Our <a href="https://rollcooksville.github.io/maps/#map=12/43.5800/-79.5405/cyclosm">Mississauga Bike Parking Map</a> shows all bike parking whether city owned or provided by private businesses for their customers.
   
 The City of Mississauga will be launching a publicly accessible and interactive bicycle parking map in early 2021.  This map will display bike parking owned and operated by the city in locations like the following:
 <ul>
