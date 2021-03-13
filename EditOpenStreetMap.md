@@ -20,6 +20,6 @@ Fill in the relevant tags you have for attributes of the bike parking.  We find 
 Once you're done click Save, write in a comment about what you've added and then click Upload.
 <img src='img/editOSM/osm_save_and_upload_with_comment.png'>
 
-Congratulations, you've enterred your first piece of bike parking into OpenStreetMap which is now available to everyone else in the world.
+Congratulations, you've enterred your first piece of bike parking into OpenStreetMap which is now available to everyone else in the world.  These edits will become part of the Mississauga Bike Parking Map within 12 hours.
 
 
