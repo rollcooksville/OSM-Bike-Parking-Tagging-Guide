@@ -1,5 +1,5 @@
 # Edit Map Complete
-Goto <a href="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=13&lat=43.56254&lon=-79.5613&background=CyclOSM#layer-select">Map Complete</a> and click the "Login with OpenStreetMap" button in the top left to begin editing OpenStreetMap using Map Complete:
+Goto <a href="https://mapcomplete.osm.be/cyclofix?z=13&lat=43.59102&lon=-79.6015&background=CyclOSM&layer-bike_cafes=false&layer-bicycle_library=false&layer-bicycle_tube_vending_machine=false&layer-bike_themed_object=false&layer-bike_cleaning=false">Map Complete</a> and click the "Login with OpenStreetMap" button in the top left to begin editing OpenStreetMap using Map Complete:
 <img src='img/editMapComplete/Login_with_openstreetmap.png'>
 <img src='img/editMapComplete/OSM_login.png'>
 
